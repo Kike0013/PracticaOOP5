@@ -1,0 +1,14 @@
+C:\Users\rafael.mella\source\repos\PracticaOOP5\PracticaOOP5\bin\Debug\PracticaOOP5.exe.config
+C:\Users\rafael.mella\source\repos\PracticaOOP5\PracticaOOP5\bin\Debug\PracticaOOP5.exe
+C:\Users\rafael.mella\source\repos\PracticaOOP5\PracticaOOP5\bin\Debug\PracticaOOP5.pdb
+C:\Users\rafael.mella\source\repos\PracticaOOP5\PracticaOOP5\obj\Debug\PracticaOOP5.csproj.AssemblyReference.cache
+C:\Users\rafael.mella\source\repos\PracticaOOP5\PracticaOOP5\obj\Debug\PracticaOOP5.csproj.CoreCompileInputs.cache
+C:\Users\rafael.mella\source\repos\PracticaOOP5\PracticaOOP5\obj\Debug\PracticaOOP5.exe
+C:\Users\rafael.mella\source\repos\PracticaOOP5\PracticaOOP5\obj\Debug\PracticaOOP5.pdb
+C:\Users\kique\source\repos\PracticaOOP5\PracticaOOP5\bin\Debug\PracticaOOP5.exe.config
+C:\Users\kique\source\repos\PracticaOOP5\PracticaOOP5\bin\Debug\PracticaOOP5.exe
+C:\Users\kique\source\repos\PracticaOOP5\PracticaOOP5\bin\Debug\PracticaOOP5.pdb
+C:\Users\kique\source\repos\PracticaOOP5\PracticaOOP5\obj\Debug\PracticaOOP5.csproj.AssemblyReference.cache
+C:\Users\kique\source\repos\PracticaOOP5\PracticaOOP5\obj\Debug\PracticaOOP5.csproj.CoreCompileInputs.cache
+C:\Users\kique\source\repos\PracticaOOP5\PracticaOOP5\obj\Debug\PracticaOOP5.exe
+C:\Users\kique\source\repos\PracticaOOP5\PracticaOOP5\obj\Debug\PracticaOOP5.pdb
